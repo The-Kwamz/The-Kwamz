@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @The_Kwamz
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on whatever projects there are opportunitoes to learn
 - 📫 How to reach me: kwameyinah@gmail.com
