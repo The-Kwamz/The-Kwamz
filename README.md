@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The_Kwamz
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently a student studying BSc Information Technology @ Richfield Graduate Institute of Technology
 - 💞️ I’m looking to collaborate on whatever projects there are opportunitoes to learn
 - 📫 How to reach me: kwameyinah@gmail.com
 -  😄 Pronouns: He
