@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Web Development, DevOps & Data Science
 - 🌱 I’m currently a student studying BSc Information Technology @ Richfield Graduate Institute of Technology
 - 💞️ I’m looking to collaborate on whatever projects there are opportunitoes to learn
-- 📫 How to reach me, e:kwameyinkah@gmail.com, w: www.kwameyinkah.co.za
+- 📫 How to reach me, e:kwame@kwameyinkah.co.za, w: www.kwameyinkah.co.za
 -  😄 Pronouns: He
 - ⚡ Fun fact: I'm a builder
 
